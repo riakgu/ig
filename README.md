@@ -2,8 +2,8 @@
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/masokky/instagram-tools.git
-	* cd instagram-tools
+	* git clone https://github.com/riakgu/ig.git
+	* cd ig
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
@@ -14,7 +14,7 @@
 	* Download GIT for Windows (https://git-scm.com/download/) *Choose WIN & 32bit/64bit
 	* Download NodeJS (https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
 	* INSTALL GIT for Windows & NodeJS
-	* Download File on Github (https://github.com/masokky/instagram-tools.git)
+	* Download File on Github (https://github.com/riakgu/ig.git)
 	* Extract File instagram-tools and enter the folder
 	* Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the instagram-tools folder!!!)
 	* Then type: unzip node_modules.zip
@@ -28,8 +28,8 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/masokky/instagram-tools.git
-	* cd instagram-tools
+	* git clone https://github.com/riakgu/ig.git
+	* cd ig
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
@@ -46,8 +46,8 @@
 	* sudo yum -y install nodejs
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/masokky/instagram-tools.git
-	* cd instagram-tools
+	* git clone https://github.com/riakgu/ig.git
+	* cd ig
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
@@ -82,8 +82,8 @@
 	* nvm install 10.7.0
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/masokky/instagram-tools.git
-	* cd instagram-tools
+	* git clone https://github.com/riakgu/ig.git
+	* cd ig
 	* unzip node_modules.zip
 	* nvm use 10.7.0
 	* ls
